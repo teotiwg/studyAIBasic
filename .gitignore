@@ -4,9 +4,11 @@ __pycache__/
 *$py.class
 
 data/
+models/
 *.model
 *.zip
 .venv/
+.ipynb_checkpoints/
 
 # C extensions
 *.so
